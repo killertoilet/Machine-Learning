@@ -10,7 +10,7 @@ Created on Thu Feb 25 18:26:51 2021
 
 Task 1:
 Train a neural network on the Facial Keypoints dataset from last week's lab to predict the 15 keypoints of the face.
-You are welcome to use 2,3 or 4 hidden layers of varying sizes (it is standard practice to set each hidden layer as an increasing powers of 2, e.g. for 3 layers the number of hidden nodes per layer could be 64, 128, 256)
+
 Task 2:
 Load your own face and run it through the trained network
 """
